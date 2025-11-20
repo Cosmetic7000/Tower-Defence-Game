@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UNhV8rluSpk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cosme\\Documents\\Programming Projects\\TowerDefenceGame\\TowerDefenceGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cosme\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
